@@ -319,8 +319,5 @@ Possible improvements for future versions of the project include:
 * Performing hyperparameter optimization.
 * Deploying the trained model as a web application or API.
 
----
 
-
-⭐ If you find this project useful, feel free to star the repository.
 
